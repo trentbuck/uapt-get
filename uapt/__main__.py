@@ -1,0 +1,3 @@
+import uapt
+
+uapt.main()
